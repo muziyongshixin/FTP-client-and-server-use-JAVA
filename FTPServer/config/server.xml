@@ -1,0 +1,10 @@
+<config>
+    <rootDir>C:\Users\32706\Desktop\FTP\FTPServer</rootDir>
+    <users>
+        <user>
+            <username>admin</username>
+            <password>000000</password>
+        </user>
+    </users>
+
+</config>
