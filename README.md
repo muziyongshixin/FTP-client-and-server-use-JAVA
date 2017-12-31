@@ -8,8 +8,8 @@
 - 服务器端实现的功能有登录、刷新、上传、下载、列出文件列表、更换目录等
 
 ## 界面展示：
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+![主界面](https://github.com/muziyongshixin/FTP-client-and-server-use-JAVA/blob/master/pic/client.png?raw=true "主界面")  
+![文件选择界面](https://github.com/muziyongshixin/FTP-client-and-server-use-JAVA/blob/master/pic/dir_choose.png?raw=true"文件选择界面")  
 - ---
 ## 使用介绍：
 
