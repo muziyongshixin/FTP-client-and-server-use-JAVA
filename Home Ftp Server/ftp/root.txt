@@ -1,0 +1,4 @@
+this is root of the example
+ftp directory structure for
+anonymous accounts supplied
+with the home ftp server.

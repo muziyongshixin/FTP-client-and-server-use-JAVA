@@ -1,0 +1,13 @@
+This is just a test file..
+
+You're probably testing out the 
+home ftp server, right?
+
+Now you was able to set ftp server
+active and you've this example
+directory supplied as root. Next
+thing to test something further would
+be to create account and assign
+some other folder to that and try
+again with logging into that account
+and see what happens.
